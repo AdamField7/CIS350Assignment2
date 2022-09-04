@@ -1,4 +1,12 @@
-﻿using System.Collections;
+﻿/*
+ * Adam Field
+ * Prototype1
+ * controls the on screen text
+ */
+
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

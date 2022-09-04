@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+ * Adam Field
+ * Prototype1
+ * Has the camera follow the player
+ */
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

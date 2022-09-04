@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+ * Adam Field
+ * Prototype1
+ * make it so each trigger can only add one point each
+ */
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

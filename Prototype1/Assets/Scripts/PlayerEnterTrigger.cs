@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+ * Adam Field
+ * Prototype1
+ * when players go through the trigger add one point to the score
+ */
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

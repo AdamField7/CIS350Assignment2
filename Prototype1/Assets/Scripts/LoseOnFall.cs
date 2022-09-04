@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+ * Adam Field
+ * Prototype1
+ * if player falls off map the game is over
+ */
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

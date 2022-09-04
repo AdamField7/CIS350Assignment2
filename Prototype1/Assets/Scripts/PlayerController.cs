@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+ * Adam Field
+ * Prototype1
+ * controls player movement
+ */
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
