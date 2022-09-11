@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/* Adam Field
+ * Challenge2
+ * detects the collisions of the dogs and balls
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

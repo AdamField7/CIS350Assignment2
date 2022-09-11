@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/* Adam Field
+ * Prototype2
+ * detects when objects collide and destroys them
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

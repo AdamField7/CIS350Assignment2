@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/* Adam Field
+ * Prototype2
+ * spawn manager for prefabs
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

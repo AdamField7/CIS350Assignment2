@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/* Adam Field
+ * Challenge2
+ * manages the spawning for the balls
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/* Adam Field
+ * Challenge2
+ * moves the dogs forward at a certain speed
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

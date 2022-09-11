@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/* Adam Field
+ * Prototype2
+ * destroy objects when they go out of bounds
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

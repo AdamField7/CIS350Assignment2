@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/* Adam Field
+ * Prototype2
+ * moves an object forward at a certain speed
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

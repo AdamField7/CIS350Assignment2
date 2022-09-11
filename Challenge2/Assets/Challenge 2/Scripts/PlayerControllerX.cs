@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/* Adam Field
+ * Challenge2
+ * controls the spawning of the dogs
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
