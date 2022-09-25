@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+ * Adam Field
+ * Prototype3
+ * makes the trigger zones on the obstacles work
+ */
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

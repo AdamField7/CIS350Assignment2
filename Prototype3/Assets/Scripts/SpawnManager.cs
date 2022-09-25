@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+ * Adam Field
+ * Prototype3
+ * manages the spawning of obstacles
+ */
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
