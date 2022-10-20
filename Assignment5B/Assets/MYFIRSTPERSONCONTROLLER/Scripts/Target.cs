@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+ * Adam Field
+ * Assignment 5B
+ * Makes the targets/enemies have health and die
+ */
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

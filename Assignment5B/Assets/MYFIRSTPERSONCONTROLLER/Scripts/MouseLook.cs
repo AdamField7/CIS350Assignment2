@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Adam Field
+ * Assignment 5B
+ * contorls mouse movement
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

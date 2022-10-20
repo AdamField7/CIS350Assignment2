@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Adam Field
+ * Assignment 5B
+ * controls player movement
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+ * Adam Field
+ * Assignment 5B
+ * controls the shooting 
+ */
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
