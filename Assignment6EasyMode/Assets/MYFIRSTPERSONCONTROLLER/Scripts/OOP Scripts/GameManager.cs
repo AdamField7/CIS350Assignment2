@@ -1,4 +1,13 @@
-﻿using System.Collections;
+﻿/*
+ * Adam Field
+ * Assignment 6
+ * game manager
+ */
+
+
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;

@@ -1,4 +1,12 @@
-﻿using System.Collections;
+﻿/*
+ * Adam Field
+ * Assignment 6
+ * inventory framework
+ */
+
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
